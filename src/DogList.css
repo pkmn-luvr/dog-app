@@ -1,0 +1,17 @@
+.dog-list-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .dog-item {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .dog-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  
